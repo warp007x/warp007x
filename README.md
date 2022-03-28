@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Souradeep Atar a.k.a. warp
-- 👀 I’m interested in programming for robotics, app dev, AI/ML
+- 👀 I’m interested in programming for IoT, Robotics, App Development and AI/ML
 - 🌱 I’m currently learning python, dart and C++
-- 💞️ I’m looking to collaborate on AI/ML, App Development and Robotics
+- 💞️ I’m looking to collaborate on AI/ML, App Development, IoT and Robotics
 - 📫 How to reach me- atarsynthesis007@gmail.com
 
 <!---
